@@ -1,0 +1,2 @@
+\def\date{6 June}
+\def\dayOfWeek{Wednesday}

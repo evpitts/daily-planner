@@ -1,0 +1,2 @@
+\def\date{24 May}
+\def\dayOfWeek{Thursday}

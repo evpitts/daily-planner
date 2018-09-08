@@ -1,0 +1,2 @@
+\def\date{21 May}
+\def\dayOfWeek{Monday}
